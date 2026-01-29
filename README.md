@@ -51,7 +51,7 @@ Building custom AI solutions for venture-backed startups in the Blumberg Capital
 
 📝 [**What 200+ AI Debates Taught Me About Truth-Finding**](https://tomwalczak.substack.com) — Building the AI judge turns out to be the hardest problem. Framing beats evidence. Mode collapse is real.
 
-📝 [**Engineering Value Shift**](https://www.linkedin.com/in/tomwalczak/) — Since Opus 4.5 and Claude Code, I can write a month's worth of code in a day. Traditional software engineering isn't coming back.
+📝 [**Engineering Value Shift**](https://www.linkedin.com/in/tom-walczak/) — Since Opus 4.5 and Claude Code, I can write a month's worth of code in a day. Traditional software engineering isn't coming back.
 
 📝 [**More on Substack**](https://tomwalczak.substack.com) →
 
@@ -80,7 +80,7 @@ I'm building systems that provide that assurance. AI that shows its work. AI tha
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tom_walchak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomwalczak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-walczak/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://tomwalczak.substack.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=about.me&logoColor=white)](https://tomwalczak.com)
 
