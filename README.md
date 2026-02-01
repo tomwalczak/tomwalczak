@@ -1,15 +1,8 @@
 # Hi, I'm Tom
 
-**London** | **Building truth-seeking AI**
+**London** | **Building verifiable, truth-seeking AI agents**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-> Current AI tools give plausible-sounding answers, but don't provide assurance those answers have been stress-tested. You can't verify where they got their information. You can't see what they missed. I'm building systems that provide that assurance.
+> Current AI gives plausible-sounding answers but no assurance those answers have been stress-tested. I'm building AI agents that verify their own outputs on complex, controversial topics — surfacing counter-arguments, weighing logic, and showing what was examined.
 
 ---
 
