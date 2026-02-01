@@ -2,6 +2,8 @@
 
 **London** | **Building verifiable, truth-seeking AI agents**
 
+[Website](https://tomwalczak.com) · [Substack](https://tomwalczak.substack.com) · [Twitter](https://x.com/tom_walchak) · [LinkedIn](https://linkedin.com/in/tom-walczak)
+
 > I'm building AI agents that verify their reasoning on complex, controversial questions — surfacing counter-arguments, stress-testing logic, and turning confusion into clarity. This will 100x intellectual work and make real-time fact-checking possible.
 
 ---
