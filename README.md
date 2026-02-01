@@ -1,6 +1,6 @@
-# Hi, I'm Tom 👋
+# Hi, I'm Tom
 
-📍 **London** | 🔬 **Building truth-seeking AI** | 💻 **10x productivity via AI-native engineering**
+**London** | **Building truth-seeking AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -9,13 +9,13 @@
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-> "The value of software engineering is not in writing code anymore. It's infrastructure, interoperability, testing, and monitoring. The new engineering challenge is making codebases understandable for both humans and AI."
+> Current AI tools give plausible-sounding answers, but don't provide assurance those answers have been stress-tested. You can't verify where they got their information. You can't see what they missed. I'm building systems that provide that assurance.
 
 ---
 
 ## What I'm Building
 
-### 🎯 Open Debate
+### Open Debate
 **Open-source AI debate system for stress-testing arguments**
 
 AI can get very good at stress-testing arguments — not by being an automatic truth-finder, but by being expert at presenting, challenging, and evaluating reasoning. Bad arguments are built on weak foundations. When pressed, they fall apart.
@@ -29,7 +29,7 @@ AI can get very good at stress-testing arguments — not by being an automatic t
 
 ---
 
-### 🤖 AlexAI
+### AlexAI
 **Conversational AI embodying energy expert Alex Epstein's thinking**
 
 A production AI system that captures and communicates ideas from *Fossil Future* and *The Moral Case for Fossil Fuels*. Not a chatbot wrapper — a full knowledge base with 900+ indexed sound bites, timeless principles, and expert consensus critiques.
@@ -40,7 +40,7 @@ A production AI system that captures and communicates ideas from *Fossil Future*
 
 ---
 
-### 📊 Blumberg AI
+### Blumberg AI
 **AI consulting for Blumberg Capital portfolio companies**
 
 Building custom AI solutions for venture-backed startups in the Blumberg Capital network.
@@ -49,31 +49,19 @@ Building custom AI solutions for venture-backed startups in the Blumberg Capital
 
 ## Recent Writing
 
-📝 [**What 200+ AI Debates Taught Me About Truth-Finding**](https://tomwalczak.substack.com) — Building the AI judge turns out to be the hardest problem. Framing beats evidence. Mode collapse is real.
+[**What 200+ AI Debates Taught Me About Truth-Finding**](https://tomwalczak.substack.com) — Building the AI judge turns out to be the hardest problem. Framing beats evidence. Mode collapse is real.
 
-📝 [**Engineering Value Shift**](https://www.linkedin.com/in/tom-walczak/) — Since Opus 4.5 and Claude Code, I can write a month's worth of code in a day. Traditional software engineering isn't coming back.
-
-📝 [**More on Substack**](https://tomwalczak.substack.com) →
+[**More on Substack →**](https://tomwalczak.substack.com)
 
 ---
 
 ## What I'm Thinking About
 
-**Truth-seeking AI** — Current AI tools give plausible-sounding answers, but don't provide confidence those answers have been stress-tested. Debate Arena is designed to change that. Show what was looked at, what was reviewed, and that the review was thorough.
-
-**AI-native engineering** — We're going to have 10x or 100x more software to maintain and understand. The new challenge is making codebases understandable for both humans and AI, and "making the trains run on time."
-
-**The 100x public intellectual** — AI doesn't replace human judgment. It amplifies it. The humans who learn to work with AI will have dramatically more impact than those who don't.
+**Truth-seeking AI** — Current AI tools give plausible-sounding answers, but don't provide confidence those answers have been stress-tested. Open Debate is designed to change that. Show what was looked at, what was reviewed, and that the review was thorough.
 
 **Verification for arguments** — What we call "verifiable" for code and math, we could call "truth-seeking" for complex controversial topics. This is the next frontier after formal verification.
 
----
-
-## The Thesis
-
-Current AI tools like ChatGPT and Deep Research give plausible-sounding answers, but they don't provide assurance that those answers have been properly stress-tested. You can't verify where they got their information. You can't see what they missed.
-
-I'm building systems that provide that assurance. AI that shows its work. AI that stress-tests arguments against the strongest counter-arguments. AI that helps humans think better, not think less.
+**The 100x public intellectual** — AI doesn't replace human judgment. It amplifies it. The humans who learn to work with AI will have dramatically more impact than those who don't.
 
 ---
 
@@ -86,6 +74,4 @@ I'm building systems that provide that assurance. AI that shows its work. AI tha
 
 ---
 
-*Currently: Head of AI at Alex Epstein | AI Consultant*
-
-*Previously: ML Engineer, NLP research, building AI products since 2018*
+*Head of AI at Alex Epstein | AI Consultant*
