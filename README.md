@@ -2,7 +2,7 @@
 
 **London** | **Building verifiable, truth-seeking AI agents**
 
-> Current AI gives plausible-sounding answers but no assurance those answers have been stress-tested. I'm building AI agents that verify their own outputs on complex, controversial topics — surfacing counter-arguments, weighing logic, and showing what was examined.
+> I'm building AI agents that verify their reasoning on complex, controversial questions — surfacing counter-arguments, stress-testing logic, and turning confusion into clarity. This will 100x intellectual work and make real-time fact-checking possible.
 
 ---
 
@@ -34,25 +34,27 @@ A production AI system that captures and communicates ideas from *Fossil Future*
 ---
 
 ### Blumberg AI
-**AI consulting for Blumberg Capital portfolio companies**
+**AI agent for venture capital deal flow**
 
-Building custom AI solutions for venture-backed startups in the Blumberg Capital network.
+Built an AI agent for Blumberg Capital that screens incoming pitch decks, scores deals against investment criteria, and syncs with the CRM — making the VC process faster and more founder-friendly.
+
+Read the case study: [What I've Learned From Building an AI Agent for a VC Firm](https://tomwalczak.com/blog/what-ive-learned-from-building-an-ai-agent-for-a-vc-firm)
 
 ---
 
 ## Recent Writing
 
-[**What 200+ AI Debates Taught Me About Truth-Finding**](https://tomwalczak.substack.com) — Building the AI judge turns out to be the hardest problem. Framing beats evidence. Mode collapse is real.
+- [**Demis Hassabis Is Wrong About Computability**](https://tomwalczak.com/blog/demis-hassabis-is-wrong-about-computability) — The word "computable" is doing a ridiculous amount of hidden work in AI debates
+- [**What 200+ AI Debates Taught Me About Truth-Finding**](https://tomwalczak.com/blog/what-200-ai-debates-taught-me-about-truth-finding) — Building the AI judge turns out to be the hardest problem
+- [**AI is Like Waking Up with $100 Million**](https://tomwalczak.com/blog/ai-is-like-waking-up-with-100-million) — So you have a superpower, now what?
 
-[**More on Substack →**](https://tomwalczak.substack.com)
+[**More on my website →**](https://tomwalczak.com/blog)
 
 ---
 
 ## What I'm Thinking About
 
-**Truth-seeking AI** — Current AI tools give plausible-sounding answers, but don't provide confidence those answers have been stress-tested. Open Debate is designed to change that. Show what was looked at, what was reviewed, and that the review was thorough.
-
-**Verification for arguments** — What we call "verifiable" for code and math, we could call "truth-seeking" for complex controversial topics. This is the next frontier after formal verification.
+**Truth-seeking AI** — Verification is what makes the 10x-100x productivity gains in software engineering possible — agents can keep running, check their own work, and iterate. I'm building the equivalent for intellectual work: AI agents that verify their reasoning on complex, controversial topics.
 
 **The 100x public intellectual** — AI doesn't replace human judgment. It amplifies it. The humans who learn to work with AI will have dramatically more impact than those who don't.
 
