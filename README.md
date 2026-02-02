@@ -11,16 +11,14 @@
 ## What I'm Building
 
 ### Open Debate
-**Open-source AI debate system for stress-testing arguments**
+**Open-source AI debate system for stress-testing arguments** · [GitHub](https://github.com/tomwalczak/open-debate)
 
-AI can get very good at stress-testing arguments — not by being an automatic truth-finder, but by being expert at presenting, challenging, and evaluating reasoning. Bad arguments are built on weak foundations. When pressed, they fall apart.
+An AI debate arena where language models argue opposing viewpoints, get judged, and learn from their losses. Run debates that would never happen IRL—people who refuse to engage, won't share a stage, or are ideologically incompatible.
 
-- Recursive self-improvement for AI debaters
-- Vanilla baseline configuration for surfacing model bias
+- Recursive self-improvement — debaters reflect and evolve between rounds
+- Minimal "vanilla" prompts to surface raw model behavior
 - Human-in-the-loop coaching mode
-- CLI-first, integrates with Claude Code for analysis
-
-**Coming soon**: Public release at [open-debate.ai](https://open-debate.ai)
+- CLI-first, designed for experimentation
 
 ---
 
