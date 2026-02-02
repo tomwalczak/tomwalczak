@@ -24,6 +24,17 @@ AI can get very good at stress-testing arguments — not by being an automatic t
 
 ---
 
+### Argument Analyzer
+**Real-time argument analysis as you write** · [GitHub](https://github.com/tomwalczak/realtime-argument-analyzer)
+
+Two AI agents work in the background while you draft:
+- **Steelman** (green) — surfaces the strongest version of your argument
+- **Counter** (amber) — shows the objections your opponents will raise
+
+Write better arguments by stress-testing them before you're done.
+
+---
+
 ### AlexAI
 **Conversational AI embodying energy expert Alex Epstein's thinking**
 
